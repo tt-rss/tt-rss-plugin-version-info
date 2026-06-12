@@ -7,7 +7,7 @@ class Version_Info extends Plugin {
       'Show Tiny Tiny RSS (and related, e.g. PHP and OS) version info using Shift+V.', // description
       'wn', // author
       false, // is system
-      'https://gitlab.tt-rss.org/wn/ttrss-version-info', // more info URL
+      'https://github.com/tt-rss/tt-rss-plugin-version-info/', // more info URL
     ];
   }
 
